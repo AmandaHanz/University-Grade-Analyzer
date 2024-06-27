@@ -1,1 +1,1 @@
-# University-Grade-Analyzer
+University Grade Analyzer, a command-line tool, to streamline academic performance evaluation. Implemented features for efficient data input/output and robust analytics, providing insightful insights into student grades.
